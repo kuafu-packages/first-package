@@ -1,2 +1,0 @@
-# first-package
-[READ ONLY]
